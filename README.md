@@ -4,14 +4,13 @@
 ### Данные, задачи и полезные ссылки для участников хакатона "Цифровой рост" (http://hackathonranepa.ru) 16-22 июня 2019
 ## Идеи и задачи для хакатона
 
-    Идеи для хакатона собраны по ссылке - 
+* Идеи для хакатона собраны по ссылке - 
 
 ## Где общаться и задавать вопросы?
 
-    Вопросы можно задавать:
-    В telegram-чате - https://t.me/bigdataeconomy
-    В telegram-чате по открытым данным - https://telegram.me/opendatarussiachat
+* В telegram-чате - https://t.me/bigdataeconomy
+* В telegram-чате по открытым данным - https://telegram.me/opendatarussiachat
 
 ## Есть что дополнить?
 
-    Напишите на infoculture@infoculture.ru.
+* Напишите на infoculture@infoculture.ru.
