@@ -14,4 +14,4 @@
 
 ## Есть что дополнить?
 
-    Напишите на infoculture@infoculture.ru или сделайте pull request в github'е с Вашими дополнениями.
+    Напишите на infoculture@infoculture.ru.
