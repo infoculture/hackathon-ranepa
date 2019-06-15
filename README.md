@@ -13,4 +13,4 @@
 
 ## Есть что дополнить?
 
-* Напишите на infoculture@infoculture.ru.
+* Обратитесь к организаторам или напишите на infoculture@infoculture.ru.
